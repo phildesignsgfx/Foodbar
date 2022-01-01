@@ -1,1 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.first {
+  font-family: "Sofia", sans-serif;
+  color: coral;
+}
